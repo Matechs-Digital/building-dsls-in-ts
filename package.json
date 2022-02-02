@@ -35,6 +35,6 @@
     "yarn-deduplicate": "^3.1.0"
   },
   "dependencies": {
-    "@effect-ts/core": "^0.39.2"
+    "@effect-ts/core": "^0.54.9"
   }
 }
