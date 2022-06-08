@@ -311,17 +311,17 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@effect-ts/core@^0.39.2":
-  version "0.39.2"
-  resolved "https://registry.yarnpkg.com/@effect-ts/core/-/core-0.39.2.tgz#e41a980be4bdffbce2015bed02376cd493d7ff28"
-  integrity sha512-/53DZBGpBjlVimkSYNPQLmlrmD0DO+8uRF2nt4FRRijR4c+8trgeyqIXrKZwHxk6kl4p0vQG6mTRuEFmkx5IAg==
+"@effect-ts/core@^0.60.2":
+  version "0.60.2"
+  resolved "https://registry.yarnpkg.com/@effect-ts/core/-/core-0.60.2.tgz#45ce0ac492cbd15bd7f4dd10e285ca942ad55930"
+  integrity sha512-Mug0vKz1dYF/9j9m40VNLFQFkcOP9rwoqBFjfa9QIxCPioP08TnB5JQgwd7bg4gSRFZ4yJJdNlQG0XjyalDK3w==
   dependencies:
-    "@effect-ts/system" "^0.36.1"
+    "@effect-ts/system" "^0.57.2"
 
-"@effect-ts/system@^0.36.1":
-  version "0.36.1"
-  resolved "https://registry.yarnpkg.com/@effect-ts/system/-/system-0.36.1.tgz#9f888c4dec6ecb494f01dda4703f506c74894bbc"
-  integrity sha512-RgrndaKmfj2VCmY+sshhY0WbQ4kWjxBkFsXna2pxzvN1Ohn/PUlfuFWpVOUbHDk+SeorKOXysOkAV09H44uZ3g==
+"@effect-ts/system@^0.57.2":
+  version "0.57.2"
+  resolved "https://registry.yarnpkg.com/@effect-ts/system/-/system-0.57.2.tgz#ef0de8ddb8db8e96b675160fc1bf32048aad3cf9"
+  integrity sha512-B94ekNCY/O07LdUk/UH5Fkmu2Xi/gxQFXdN3lkSxEwiJUwyvCO6HdAdqqvLB+pp0nRa+cmNnlbjG60qb8Z+zlg==
 
 "@effect-ts/tracing-plugin@^0.10.2":
   version "0.10.2"
